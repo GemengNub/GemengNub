@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🌱 I’m currently learning Java cuz its what my school uses, but despite that, I practice on it at home as well :) |
+## 🌱 I’m currently learning Java cuz its what my school uses, but despite that, I practice on it at home as well :) 
 Trying to learn JavaScript also 🤫
 
 <!--
