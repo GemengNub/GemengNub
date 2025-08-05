@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-## 🌱 I’m currently learning Java cuz its what my school uses, but despite that, I practice on it at home as well :)
-
-##Trying to learn JavaScript also 🤫
+## 🌱 I’m currently learning Java cuz its what my school uses, but despite that, I practice on it at home as well :) |
+Trying to learn JavaScript also 🤫
 
 <!--
 **GemengNub/GemengNub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
